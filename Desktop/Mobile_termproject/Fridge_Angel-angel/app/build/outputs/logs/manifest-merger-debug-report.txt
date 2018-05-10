@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f3f419e13432b44488e87c65fb53682b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd0ebf16cec22fe302dd56d7b929ef7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7e42c91f8b2450707afeb429005bd4f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/13f820c959195c375fe4dec9cf2217a8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf5285fc288a0dafaa9771fb65dc722/AndroidManifest.xml:17:1-22:12
+MERGED from [com.felipecsl:gifimageview:2.2.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/gifimageview-2.2.0.aar/f1b5c50cd121b3d631d287d3ce540183/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/424bef79243ef12b3ea3c4c6ebb5c2d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9118ca33beae3acc3a0dac78889e45d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/578d26baa9f70ade63733fb98aede08e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d43aa56a29c0d6f2eeab11830c8f2a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27f9be06c1b251d1d64508c85d6ba9fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/372480718bd214ce241bbe11be1675af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9d8cc4b01eab4365b7a0cbe07b8eda7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/432422dc85aa354f5901672e2ba48a0e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fabbf185192dee97877ea981605a0208/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/40b91f0d3e64710ac15cf08363781032/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97965ea7a486ba7eac5e271b6a5c4694/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8a1f017b36dbd1b141584bf4637c0111/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:9:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/13f820c959195c375fe4dec9cf2217a8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/13f820c959195c375fe4dec9cf2217a8/AndroidManifest.xml:9:5-20
+MERGED from [com.felipecsl:gifimageview:2.2.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/gifimageview-2.2.0.aar/f1b5c50cd121b3d631d287d3ce540183/AndroidManifest.xml:10:5-20
+MERGED from [com.felipecsl:gifimageview:2.2.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/gifimageview-2.2.0.aar/f1b5c50cd121b3d631d287d3ce540183/AndroidManifest.xml:10:5-20
+	android:supportsRtl
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:13:9-50
+	android:icon
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:11:9-39
+	android:allowBackup
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.namjongbin.fridge_angel.SplashActivity
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:theme
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:16:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.namjongbin.fridge_angel.MainActivity
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:25:9-35:20
+	android:label
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.HOME
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:30:13-34:29
+category#android.intent.category.HOME
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:33:17-72
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:33:27-70
+activity#com.namjongbin.fridge_angel.VoiceRecognizer
+ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:36:9-126
+	android:theme
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:36:51-114
+	android:name
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml:36:19-50
+uses-sdk
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f3f419e13432b44488e87c65fb53682b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f3f419e13432b44488e87c65fb53682b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd0ebf16cec22fe302dd56d7b929ef7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd0ebf16cec22fe302dd56d7b929ef7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7e42c91f8b2450707afeb429005bd4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7e42c91f8b2450707afeb429005bd4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/13f820c959195c375fe4dec9cf2217a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/13f820c959195c375fe4dec9cf2217a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf5285fc288a0dafaa9771fb65dc722/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf5285fc288a0dafaa9771fb65dc722/AndroidManifest.xml:20:5-44
+MERGED from [com.felipecsl:gifimageview:2.2.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/gifimageview-2.2.0.aar/f1b5c50cd121b3d631d287d3ce540183/AndroidManifest.xml:8:5-43
+MERGED from [com.felipecsl:gifimageview:2.2.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/gifimageview-2.2.0.aar/f1b5c50cd121b3d631d287d3ce540183/AndroidManifest.xml:8:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/424bef79243ef12b3ea3c4c6ebb5c2d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/424bef79243ef12b3ea3c4c6ebb5c2d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9118ca33beae3acc3a0dac78889e45d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9118ca33beae3acc3a0dac78889e45d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/578d26baa9f70ade63733fb98aede08e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/578d26baa9f70ade63733fb98aede08e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d43aa56a29c0d6f2eeab11830c8f2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d43aa56a29c0d6f2eeab11830c8f2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27f9be06c1b251d1d64508c85d6ba9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27f9be06c1b251d1d64508c85d6ba9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/372480718bd214ce241bbe11be1675af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/372480718bd214ce241bbe11be1675af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9d8cc4b01eab4365b7a0cbe07b8eda7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9d8cc4b01eab4365b7a0cbe07b8eda7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/432422dc85aa354f5901672e2ba48a0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/432422dc85aa354f5901672e2ba48a0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fabbf185192dee97877ea981605a0208/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fabbf185192dee97877ea981605a0208/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/40b91f0d3e64710ac15cf08363781032/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/40b91f0d3e64710ac15cf08363781032/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97965ea7a486ba7eac5e271b6a5c4694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97965ea7a486ba7eac5e271b6a5c4694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8a1f017b36dbd1b141584bf4637c0111/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/imseokbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8a1f017b36dbd1b141584bf4637c0111/AndroidManifest.xml:20:5-44
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imseokbin/AndroidStudioProjects/Fridge_Angel-angel/app/src/main/AndroidManifest.xml
