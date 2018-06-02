@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.imseokbin.lab6_2.MainActivity">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*">
+        <TableRow>
+            <TextView android:text="Shared preference example"
+                android:layout_span="3"
+                android:layout_gravity="center"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop ="20dp">
+            <TextView
+                android:text="학번"/>
+            <EditText
+                android:layout_span="2"
+                android:id="@+id/sn"
+                android:hint="..."/>
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop ="20dp">
+            <TextView
+                android:text="이름"/>
+            <EditText
+                android:layout_span="2"
+                android:id="@+id/name"
+                android:hint="..."/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:id="@+id/resultBtn"
+                android:text="불러오기"/>
+            <Button
+                android:id="@+id/saveBtn"
+                android:text="저장하기"/>
+            <Button
+                android:id="@+id/clearBtn"
+                android:text="초기화"/>
+        </TableRow>
+    </TableLayout>
+
+
+
+</LinearLayout>
